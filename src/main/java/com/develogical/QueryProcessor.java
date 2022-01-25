@@ -14,7 +14,7 @@ public class QueryProcessor {
         }
 
         if (query.toLowerCase().contains("ghush")) {
-            return "A Fourth Year Computing Student at Imperial College London";
+            return "A Fourth Year Computing Student at Imperial College London.";
         }
 
         return "";
